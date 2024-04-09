@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @CHAMA9A
+- 👋 Hi, I'm Mohamed Ali JAMMAA
 - 👀 I’m interested in video games
 - 🌱 I’m currently learning digital developpement
-- 📫 How to reach me: my instagram: mohamedalijammaa
 
 <!---
 CHAMA9A/CHAMA9A is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
